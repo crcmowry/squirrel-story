@@ -25,6 +25,15 @@ into his own reflection. Sadly, he approached his reflection and stroked the
 glass lightly with his paw. "You are beautiful and worthy of love," he whispered.
 "Thanks, Nibbles," replied the mirror.
 
-Epilogue
+Chapter 3
 ---------
-Nibbles signed up for 98-174 and learned how to use git super well!
+4 Years Later...
+Nibbles ripped open the bulging envelope and frantically scanned the letter inside.
+"I got in to Carnegie Mellon!" he exclaimed.
+"Hmm... I wonder if there is a course there where I can learn about Git?" he wondered.
+
+The Epilogue
+---------
+After completing 98-174, Nibbles lived happily every after,
+and used Git to keep track of all of his acorns.
+The End
